@@ -1,0 +1,22 @@
+.main-header{
+    dispay: flex;
+    align-items: center;
+}
+.big-paw {
+    height: 350px;
+}
+.paw {
+    height: 400px;
+}
+.big-paw {
+    align: center;
+}
+h1 {
+    color: rgb(18, 69, 150)
+}
+h1 {
+    font-size: 200px;
+}
+.big-paw {
+    color: rgb(150, 51, 18)
+}
